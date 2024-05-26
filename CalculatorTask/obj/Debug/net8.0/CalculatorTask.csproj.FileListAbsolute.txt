@@ -1,0 +1,4 @@
+C:\Users\oktay\source\repos\CalculatorTask\obj\Debug\net8.0\CalculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\CalculatorTask\obj\Debug\net8.0\CalculatorTask.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\CalculatorTask\obj\Debug\net8.0\CalculatorTask.AssemblyInfo.cs
+C:\Users\oktay\source\repos\CalculatorTask\obj\Debug\net8.0\CalculatorTask.csproj.CoreCompileInputs.cache
